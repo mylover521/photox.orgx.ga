@@ -2,7 +2,7 @@
 layout: post
 title:  《神咲詩織Shiori Kamisaki》
 date:   2020-08-15
-img: ximg.orgx.ga/1:/mini/ShioriKamisaki.jpg
+img: imgx.orgx.ga/mini/ShioriKamisaki.jpg
 categories: [美女, 性感, 泳衣]
 ---
 

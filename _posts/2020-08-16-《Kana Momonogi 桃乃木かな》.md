@@ -2,7 +2,7 @@
 layout: post
 title:  《Kana Momonogi 桃乃木かな》
 date:   2020-08-16
-img: ximg.orgx.ga/1:/mini/KanaMomonogi.jpg
+img: imgx.orgx.ga/mini/KanaMomonogi.jpg
 categories: [美女, 性感, 泳衣]
 ---
 

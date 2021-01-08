@@ -2,7 +2,7 @@
 layout: post
 title:  《Kirara Asuka明日花绮罗》
 date:   2020-08-17
-img: ximg.orgx.ga/1:/mini/KanaMomonogi.jpg
+img: imgx.orgx.ga/mini/KanaMomonogi.jpg
 categories: [美女, 性感, 泳衣]
 ---
 
